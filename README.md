@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/apurva-shimpi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-apurva%20shimpi-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://static.vecteezy.com/system/resources/previews/012/744/791/original/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" width="500" height="500">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
